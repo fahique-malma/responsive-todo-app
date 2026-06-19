@@ -32,7 +32,7 @@ A responsive and interactive Todo List application built using **HTML, CSS, and 
 ## 📂 Project Structure
 
 ```bash
-todo-list-app/
+responsive-todo-app/
 │
 ├── index.html
 ├── style.css
